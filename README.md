@@ -2,7 +2,7 @@
 Download Station Unofficial host files for Czech server Ulozto.cz. 
 
 # Install
-Download prepacked *.host file.
+Download prepacked ulozto.host file.
 
 Login to Your Synology (http://YOUR_SYNOLOGY_IP:5000/webman/index.cgi)
 Open Download Station > Settings > File hosting
@@ -18,7 +18,7 @@ Bitcoin: 1JBeJjzUhrzrLmxpFWjDz7Z4NqJwkAESjD
 Neoficiální doplněk ke stahování pouze ze serveru Ulozto.cz
 
 # Instalace
-Stáhněte *.host soubor.
+Stáhněte ulozto.host soubor.
 
 Přihlaste se do Synology (http://IP_VAŠEHO_SYNOLOGY:5000/webman/index.cgi)
 Otevřete Download Station > Nastavení > Hostování souborů
