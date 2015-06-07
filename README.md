@@ -1,8 +1,12 @@
 # synology-download-station-ulozto.cz
 Download Station Unofficial host files for Czech server Ulozto.cz. 
 
+# notes
+To create package use in linux "tar zcf ulozto.host INFO ulozto.php".
+For unpack use "tar xvfz ulozto.host".
+
 # Install
-Download prepacked ulozto.host file.
+Download prepacked ulozto.host file (raw download or as complete repo in zip).
 
 Login to Your Synology (http://YOUR_SYNOLOGY_IP:5000/webman/index.cgi)
 Open Download Station > Settings > File hosting
