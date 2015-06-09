@@ -82,7 +82,6 @@ class SynoFileHostingUlozto {
 	curl_setopt($curl, CURLOPT_URL, $this->Url . "?do=directDownload" );
 	$LoginInfo = curl_exec($curl);
 	$info = curl_getinfo($curl);
-	$error_code = $info['http_code'];
 	$redirect_url = $info['url'];
 	curl_close($curl);
 	
