@@ -1,7 +1,8 @@
 # synology-download-station-ulozto.cz
 Download Station Unofficial host file for Czech server Ulozto.cz. 
 
-! Only url with prefix like http://ulozto.cz/... is implemented yet. !
+! Only url with prefix like http://ulozto.cz/... is implemented yet !
+! Only Premium Account !
 
 # notes
 To create package use in linux "tar zcf ulozto.host INFO ulozto.php".
@@ -26,6 +27,7 @@ Bitcoin: 1JBeJjzUhrzrLmxpFWjDz7Z4NqJwkAESjD
 Neoficiální doplněk ke stahování pouze ze serveru Ulozto.cz
 
 ! Pouze odkazy začínajcí http://ulozto.cz/... jsou implementovány. ! Ostatní je potřeba při vložení přepsat (uloz.to na ulozto.cz, ...)
+! Pouze Premium Účet!
 
 # instalace
 Stáhněte ulozto.host soubor.
